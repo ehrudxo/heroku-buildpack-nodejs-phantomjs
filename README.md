@@ -36,4 +36,3 @@ heroku config:set BUILDPACK_URL=<your-github-url>#your-branch
 
 - 어플리케이션 디렉토리에 `vendor/fonts` 디렉토리를 만들고, ttf 파일 복사
 - git add ~ push
-
